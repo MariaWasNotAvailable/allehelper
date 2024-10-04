@@ -1,0 +1,15 @@
+{
+  "name": "allehelper",
+  "version": "1.0.0",
+  "description": "Simple QoL extension for a polish auction site",
+  "main": "allehelper-unpacked/contentScript.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "mariawasnotavailable",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/chrome": "^0.0.270",
+    "typescript": "^5.5.4"
+  }
+}
